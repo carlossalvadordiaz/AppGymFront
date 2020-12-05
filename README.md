@@ -1,8 +1,12 @@
-# AppGimnasio
+# AppGimnasio (FRONT)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
 
 <h1 align="center">Full Stack app (FRONT-END PART) with Angular</h1>
+
+## Descripción
+
+Modelo de ejemplo de una app full stack para la gestión de clientes y usuarios de un gimnasio.
 
 
 <!-- TABLE OF CONTENTS -->
