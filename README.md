@@ -22,21 +22,21 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 | SimpleCrud  | CustomerList  |
 |:-:|:-:|
-|  <a href="https://github.com/carlossalvadordiaz/AppGymFront/src/assets/images/images/nuevoUsuarioAngular.png" target="_blank"> <img src="/src/assets/images/images/nuevoUsuarioAngular.png" width="400" height="350"/></a> | <a href="https://github.com/carlossalvadordiaz/AppGymFront/src/assets/images/images/listaClientesAngular.png" target="_blank"> <img src="/src/assets/images/images/listaClientesAngular.png" width="400" height="350"/></a>
+|  <a href="https://github.com/carlossalvadordiaz/AppGymFront/blob/master/src/assets/images/images/nuevoUsuarioAngular.png" target="_blank"> <img src="/src/assets/images/images/nuevoUsuarioAngular.png" width="400" height="350"/></a> | <a href="https://github.com/carlossalvadordiaz/AppGymFront/blob/master/src/assets/images/images/listaClientesAngular.png" target="_blank"> <img src="/src/assets/images/images/listaClientesAngular.png" width="400" height="350"/></a>
 
 ### Code examples
 
 #### User Service Example
 
-<a href="https://github.com/carlossalvadordiaz/AppGymFront/src/assets/images/images/serviceExample.png" target="_blank"> <img src="/src/assets/images/images/serviceExample.png"/></a>
+<a href="https://github.com/carlossalvadordiaz/AppGymFront/blob/master/src/assets/images/images/serviceExample.png" target="_blank"> <img src="/src/assets/images/images/serviceExample.png"/></a>
 
 #### loginForm html 
 
-<a href="https://github.com/carlossalvadordiaz/AppGymFront/src/assets/images/images/formExampleHtml.png" target="_blank"> <img src="/src/assets/images/images/formExampleHtml.png"/></a>
+<a href="https://github.com/carlossalvadordiaz/AppGymFront/blob/master/src/assets/images/images/formExampleHtml.png" target="_blank"> <img src="/src/assets/images/images/formExampleHtml.png"/></a>
 
 #### loginForm Ts
 
-<a href="https://github.com/carlossalvadordiaz/AppGymFront/src/assets/images/images/formExampleTs.png" target="_blank"> <img src="/src/assets/images/images/formExampleTs.png"/></a>
+<a href="https://github.com/carlossalvadordiaz/AppGymFront/blob/master/src/assets/images/images/formExampleTs.png" target="_blank"> <img src="/src/assets/images/images/formExampleTs.png"/></a>
 
 
 
@@ -49,7 +49,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - Bootstrap
 
 
-## [BACKEND PROJECT](https://github.com/carlossalvadordiaz/AppGymBack)
+##  --> [BACKEND PROJECT](https://github.com/carlossalvadordiaz/AppGymBack) <--
 
 ## Contact
 
