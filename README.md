@@ -2,26 +2,57 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
 
-## Development server
+<h1 align="center">Full Stack app (FRONT-END PART) with Angular</h1>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+<!-- TABLE OF CONTENTS -->
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Table of Contents
 
-## Build
+- [Overview](#overview)
+- [Built With](#built-with)
+- [Contact](#contact)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+<!-- OVERVIEW -->
 
-## Running unit tests
+## Overview
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
+| SimpleCrud  | CustomerList  |
+|:-:|:-:|
+|  <a href="https://github.com/carlossalvadordiaz/AppGymFront/src/assets/images/images/nuevoUsuarioAngular.png" target="_blank"> <img src="/src/assets/images/images/nuevoUsuarioAngular.png" width="400" height="350"/></a> | <a href="https://github.com/carlossalvadordiaz/AppGymFront/src/assets/images/images/listaClientesAngular.png" target="_blank"> <img src="/src/assets/images/images/listaClientesAngular.png" width="400" height="350"/></a>
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+### Code examples
+
+#### User Service Example
+
+<a href="https://github.com/carlossalvadordiaz/AppGymFront/src/assets/images/images/serviceExample.png" target="_blank"> <img src="/src/assets/images/images/serviceExample.png"/></a>
+
+#### loginForm html 
+
+<a href="https://github.com/carlossalvadordiaz/AppGymFront/src/assets/images/images/formExampleHtml.png" target="_blank"> <img src="/src/assets/images/images/formExampleHtml.png"/></a>
+
+#### loginForm Ts
+
+<a href="https://github.com/carlossalvadordiaz/AppGymFront/src/assets/images/images/formExampleTs.png" target="_blank"> <img src="/src/assets/images/images/formExampleTs.png"/></a>
+
+
+
+### Built With
+
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+
+- NodeJs
+- Angular 10
+- Bootstrap
+
+
+## [BACKEND PROJECT](https://github.com/carlossalvadordiaz/AppGymBack)
+
+## Contact
+
+
+- GitHub [@carlossalvadordiaz](https://{github.com/carlossalvadordiaz})
+- Mail [@csalvadordiaz689@gmail.com](mailto:csalvadordiaz689@gmail.com)
