@@ -1,0 +1,43 @@
+<form [formGroup]="formulario" (ngSubmit)="onSubmit()">
+    <div class="form-group">
+        <label>Nombre</label>
+        <input type="text" class="form-control" formControlName="nombre">
+    </div>
+    <div class="form-group">
+        <label>Apellidos</label>
+        <input type="text" class="form-control" formControlName="apellidos">
+    </div>
+    <div class="form-group">
+        <label>Edad</label>
+        <input type="text" class="form-control" formControlName="edad">
+    </div>
+    <div class="form-group">
+        <label>Direccion</label>
+        <input type="text" class="form-control" formControlName="direccion">
+    </div>
+    <div class="form-group">
+        <label>sexo</label>
+        <input type="text" class="form-control" formControlName="sexo">
+    </div>
+    <div class="form-group">
+        <label>dni</label>
+        <input type="text" class="form-control" formControlName="dni">
+    </div>
+    <div class="form-group">
+        <label>email</label>
+        <input type="text" class="form-control" formControlName="email">
+    </div>
+    <div class="form-group">
+        <label>fecha_nacimiento</label>
+        <input type="date" class="form-control" formControlName="fecha_nacimiento">
+    </div>
+    <div class="form-group">
+        <label>cuota</label>
+        <input type="text" class="form-control" formControlName="cuota">
+    </div>
+
+    <div class="form-group">
+
+        <input type="submit" class="btn btn-info" value="Añadir Cliente">
+    </div>
+</form>

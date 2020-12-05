@@ -1,0 +1,42 @@
+<h2 class="md-show mt-5">Clientes</h2>
+
+<!-- 
+    Por terminar:
+    detalle de editar usuario, ver detalle de usuario, borrar usuario
+ -->
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th>Id</th>
+            <th>photo</th>
+            <th>Nombre</th>
+            <th>Apellidos</th>
+            <th>Direccion</th>
+            <th>Email</th>
+            <th>Sexo</th>
+            <th>Edad</th>
+            <th>Cuota</th>
+            <th>DNI</th>
+            <th>Fecha de Inscripcion</th>
+            <th>Fecha de nacimiento</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let cliente of clientes">
+            <td>{{cliente.id}}</td>
+            <td *ngIf="cliente.sexo == 'M'"><img src="../../../assets/images/avatar.png" width="90" height="90"></td>
+            <td *ngIf="cliente.sexo == 'F'"><img src="../../../assets/images/avatar2.png" width="90" height="90"></td>
+            <td>{{cliente.nombre}}</td>
+            <td>{{cliente.apellidos}}</td>
+            <td>{{cliente.direccion}}</td>
+            <td>{{cliente.email}}</td>
+            <td>{{cliente.sexo}}</td>
+            <td>{{cliente.edad}}</td>
+            <td>{{cliente.cuota}}€</td>
+            <td>{{cliente.dni}}</td>
+            <td>{{cliente.fecha_inscripcion |date: 'dd/MM/yyyy'}}</td>
+            <td>{{cliente.fecha_nacimiento |date: 'dd/MM/yyyy'}}</td>
+
+        </tr>
+    </tbody>
+</table>

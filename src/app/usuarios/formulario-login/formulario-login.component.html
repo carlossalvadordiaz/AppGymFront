@@ -1,0 +1,19 @@
+<form #formLogin="ngForm" (ngSubmit)="onSubmit(formLogin.value)">
+    <div class="form-group">
+        <label> Email</label>
+        <input type="email" name="email" class="form-control" ngModel>
+    </div>
+    <div class="form-group">
+        <label> Password</label>
+        <input type="password" name="password" class="form-control" ngModel>
+    </div>
+
+    <div class="form-group">
+
+        <input type="submit" class="btn btn-info" value="Iniciar sesión">
+    </div>
+
+    <p class="text-danger" *ngIf="mensajeError">
+        {{mensajeError}}
+    </p>
+</form>

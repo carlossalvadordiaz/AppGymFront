@@ -1,0 +1,10 @@
+nav ul li {
+    cursor: pointer;
+    border-bottom: 2px solid black;
+    margin: 10px;
+}
+
+.active {
+    border-bottom: 3px solid black;
+    box-shadow: 0 10px grey;
+}
